@@ -12,4 +12,5 @@ title: Bryn Shander
 ### EH - halfling
 ### BS - glassblower
 ### ?? - ??
-### scarred dwarf lady -
+### scarred dwarf lady gives us a quest
+#### she suspects
