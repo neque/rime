@@ -7,5 +7,5 @@ title: Targos
 ## Luskan Arms
 ### Inn,
 ## Kegan
-### stray dog
+### stray dog lead us to him
 ### gave us cider
