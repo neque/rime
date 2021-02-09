@@ -16,4 +16,5 @@ title: Bryn Shander
 #### she suspects Sephek Kaltro
 #### he works for merchant company (Thorgas bodygard)
 #### tries to appease Frostmaiden
-#### resistant to cold
+#### kissed by Frostmaiden ()
+#### last known location - Lonelywood
