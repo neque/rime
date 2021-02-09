@@ -5,4 +5,4 @@ title: Bryn Shander
 ## North Look
 
 ### tavern
-### run by retired sell sword
+### Gram Sax - runs it, retired sell sword
