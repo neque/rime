@@ -9,4 +9,4 @@ title: Targos
 ## Kegan
 ### stray dog lead us to him
 ### gave us cider
-### lost husband in Calvins Cairn (big mountain, scenic), only dog came back
+### Gareth - lost husband in Calvins Cairn (big mountain, scenic), only dog came back
