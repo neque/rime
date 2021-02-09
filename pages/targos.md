@@ -9,4 +9,4 @@ title: Targos
 ## Kegan
 ### stray dog lead us to him
 ### gave us cider
-### lost husband
+### lost husband, only dog came back
