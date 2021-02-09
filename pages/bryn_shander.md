@@ -10,7 +10,7 @@ title: Bryn Shander
 ## Rumors about recent killings
 ### dagger ice thru heart
 ### East Heaven - halfling
-### BS - glassblower
+### Bryn Shander - glassblower
 ### ?? - ??
 ### Calind Throwbane scarred dwarf lady gives us a quest
 #### she suspects Sephek Kaltro
