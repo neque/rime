@@ -12,8 +12,11 @@ title: Bryn Shander
 ### EH - halfling
 ### BS - glassblower
 ### ?? - ??
-### Kalind Throwbane - scarred dwarf lady gives us a quest
-#### she suspects Zefek Calthrow
+### Kalind Throwbane scarred dwarf lady gives us a quest
+#### she suspects Zefek Calthrow ## Kegan
+### stray dog lead us to him
+### gave us cider
+### Gareth - lost husband in Calvins Cairn (big mountain, scenic), only dog came back
 #### he works for merchant company (Thorgas bodygard)
 #### tries to appease Frostmaiden
 #### resistant to cold
