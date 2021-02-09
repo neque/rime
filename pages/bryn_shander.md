@@ -12,7 +12,7 @@ title: Bryn Shander
 ### EH - halfling
 ### BS - glassblower
 ### ?? - ??
-### scarred dwarf lady gives us a quest
+### Kalind Throwbane - scarred dwarf lady gives us a quest
 #### she suspects Zefek Calthrow
 #### he works for merchant company (Thorgas bodygard)
 #### tries to appease Frostmaiden
