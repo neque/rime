@@ -11,3 +11,5 @@ title: Bryn Shander
 ### dagger ice thru heart
 ### EH - halfling
 ### BS - glassblower
+### ?? - ??
+###
