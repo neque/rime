@@ -16,3 +16,4 @@ title: Bryn Shander
 #### she suspects Zefek Calthrow
 #### he works for merchant company (Thorgas bodygard)
 #### tries to appease Frostmaiden
+#### resistant to cold
