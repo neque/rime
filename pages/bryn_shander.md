@@ -18,4 +18,5 @@ title: Bryn Shander
 #### tries to appease Frostmaiden
 #### kissed by Frostmaiden (I guess resistance to cold)
 #### last known location - Lonelywood
-###
+## Uthal triumphed over Sky in wrestling competition
+##
