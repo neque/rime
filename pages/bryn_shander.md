@@ -13,7 +13,7 @@ title: Bryn Shander
 ### Bryn Shander - glassblower
 ### ?? - ??
 ### Calind Throwbane scarred dwarf lady gives us a quest
-#### she suspects Sephek Kaltro
+#### she suspects Sephek Kaltrot
 #### he works for merchant company (Thorgas bodygard)
 #### tries to appease Frostmaiden
 #### kissed by Frostmaiden (I guess resistance to cold)
