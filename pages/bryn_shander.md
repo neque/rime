@@ -13,4 +13,4 @@ title: Bryn Shander
 ### BS - glassblower
 ### ?? - ??
 ### scarred dwarf lady gives us a quest
-#### she suspects
+#### she suspects Zefek Calthrow
