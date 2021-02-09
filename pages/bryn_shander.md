@@ -9,7 +9,7 @@ title: Bryn Shander
 ### Bity - stuffed fish on wall
 ## Rumors about recent killings
 ### dagger ice thru heart
-### EH - halfling
+### East H - halfling
 ### BS - glassblower
 ### ?? - ??
 ### Calind Throwbane scarred dwarf lady gives us a quest
