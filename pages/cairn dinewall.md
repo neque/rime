@@ -14,4 +14,4 @@ title: Cairn Dinewall
 ### Pebbles created distraction
 ### Zaryen, Uthal & Sky climbed over wall
 ### the `strike team` quickly encounters cultists and a fight breaks out
-### after epic battle our brave team barely survived
+### after epic battle which our brave team barely survived,
