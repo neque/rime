@@ -10,4 +10,5 @@ title: Cairn Dinewall
 ## Creanoc Siver - speaker, apparently sick, only communicates thru guards
 ## Castle defended by weird dudes with black robes/armours + some kind of medalions
 ## Something strange is afoot in this town
-##
+## We bravely decided to assault the castle!
+### Pebbles created distraction
