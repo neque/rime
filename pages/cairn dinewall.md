@@ -13,4 +13,5 @@ title: Cairn Dinewall
 ## We bravely decided to assault the castle!
 ### Pebbles created distraction
 ### Zaryen, Uthal & Sky climbed over wall
-### the `strike team` quickly encounters
+### the `strike team` quickly encounters cultists and a fight breaks out
+###
