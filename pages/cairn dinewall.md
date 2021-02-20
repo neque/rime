@@ -9,4 +9,4 @@ title: Cairn Dinewall
 ### no alcohol, no meat, no sleeping
 ## Creanoc Siver - speaker, apparently sick, only communicates thru guards
 ## Castle defended by weird dudes with black robes/armours + some kind of medalions
-##
+## Something strange is afoot in
