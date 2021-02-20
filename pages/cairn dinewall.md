@@ -12,4 +12,4 @@ title: Cairn Dinewall
 ## Something strange is afoot in this town
 ## We bravely decided to assault the castle!
 ### Pebbles created distraction
-### Zaryen,
+### Zaryen, Uthal & Sky climbed over wall
