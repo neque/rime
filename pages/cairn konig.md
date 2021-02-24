@@ -13,4 +13,6 @@ title: Cairn Konig
 ## Frozen Far Expeditions
 ### Garreth
 #### 3 companions
-#####
+##### big dude
+##### female halfling
+##### female thiefling
