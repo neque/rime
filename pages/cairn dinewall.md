@@ -20,7 +20,7 @@ title: Cairn Dinewall
 #### to the left is Kadroth (main cultist) with his lackey (Thoob)
 #### upstairs is old lady who sees future (soothsayer) Heathil
 ##### Xardoroc Sunblight will conquer the IWD
-##### dougear warlord, attempt at conquering Icewind Dale
+##### duergar warlord, attempt at conquering Icewind Dale
 ##### fortress in Spine of the world, will attack Ten Towns
 #### cult is Knights of the something-swords
 #### speaker Kranoc is being held upstairs
