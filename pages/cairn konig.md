@@ -2,4 +2,5 @@
 title: Cairn Konig
 ---
 
-## ## small quaint town, modestly comfortable
+## small quaint town, modestly comfortable
+##
