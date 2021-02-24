@@ -11,4 +11,6 @@ title: Cairn Konig
 ### magical lantern has been stolen from here
 ### barmaid claims it was stolen by dwarves
 ## Frozen Far Expeditions
-###
+### Garreth
+#### 3 companions
+#####
