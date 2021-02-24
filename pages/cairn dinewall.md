@@ -18,5 +18,6 @@ title: Cairn Dinewall
 ### after resting to get their wits about team continues exploring the keep!
 ### servant girl (Maer) reveals that
 #### to the left is Kadroth (main cultist) with his lackey (Thoob)
-#### upstairs is old lady who sees future (soothsayer)
+#### upstairs is old lady who sees future (soothsayer) Heathil
+#####
 #### speaker Kranoc is being held upstairs
