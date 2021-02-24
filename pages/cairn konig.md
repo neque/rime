@@ -16,4 +16,5 @@ title: Cairn Konig
 ##### big dude
 ##### female halfling
 ##### female thiefling, red skin, horns
+#### whole team bought snow shoes + crampons
 #### lady in shop suggested going through dvarven valley
