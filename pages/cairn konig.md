@@ -16,4 +16,4 @@ title: Cairn Konig
 ##### big dude
 ##### female halfling
 ##### female thiefling, red skin, horns
-####
+#### lady in shop suggested going through dvarven valley
