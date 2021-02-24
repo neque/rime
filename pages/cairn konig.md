@@ -15,4 +15,4 @@ title: Cairn Konig
 #### 3 companions
 ##### big dude
 ##### female halfling
-##### female thiefling
+##### female thiefling, red skin, horns
