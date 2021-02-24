@@ -19,4 +19,4 @@ title: Cairn Dinewall
 ### servant girl (Maer) reveals that
 #### to the left is Kadroth (main cultist) with his lackey
 #### upstairs is old lady who sees future (soothsayer)
-#### speaker
+#### speaker is being
