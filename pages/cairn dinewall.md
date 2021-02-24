@@ -24,4 +24,4 @@ title: Cairn Dinewall
 ##### fortress in Spine of the world, will attack Ten Towns
 #### cult is Knights of the Black Sword, dedicated to Leveistus - devil from 6th layer in 9 Hell, he is not happy about duergars (they worship Asmodeus)
 #### speaker Kranoc is being held upstairs
-### Avarice - albino researcher, part of Arcane Brotherhood
+### Avarice - albino researcher, part of Arcane Brotherhood, hates duergars
