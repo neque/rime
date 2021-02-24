@@ -15,3 +15,6 @@ title: Cairn Dinewall
 ### Zaryen, Uthal & Sky climbed over wall
 ### the `strike team` quickly encounters cultists and a fight breaks out
 ### after epic battle which our brave team barely survived, throng of cultists lie gutted in front of them
+### after resting to get their wits about team continues exploring the keep!
+### servant girl (Maer) reveals that to the left is Kadroth (main cultist) with his lackey
+###
