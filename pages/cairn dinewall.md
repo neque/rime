@@ -22,5 +22,5 @@ title: Cairn Dinewall
 ##### Xardoroc Sunblight will conquer the IWD
 ##### dougear warlord, attempt at conquering Icewind Dale
 ##### fortress in Spine of the world, will attack Ten Towns
-#### Knights of the something-swords
+#### cult is Knights of the something-swords
 #### speaker Kranoc is being held upstairs
