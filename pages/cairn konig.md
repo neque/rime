@@ -10,5 +10,5 @@ title: Cairn Konig
 ## Northern Light - tavern
 ### magical lantern has been stolen from here
 ### barmaid claims it was stolen by dwarves
-## Frozen Expeditions
+## Frozen Far Expeditions
 ###
