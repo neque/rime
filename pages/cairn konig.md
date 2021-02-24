@@ -9,3 +9,4 @@ title: Cairn Konig
 ### sack of pearls
 ## Northern Light - tavern
 ### magical lantern has been stolen from here
+### barmaid claims it was stolen by dwarves
