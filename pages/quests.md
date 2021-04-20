@@ -6,4 +6,5 @@ title: Quests
 ## undercommon note that maybe are some sort of trade contract
 ## killing Sephek
 ## chardalyn shards, need to talk with blacksmith in [[East Haven]]
-## pirate ship with rum
+## pirate ship with rum supply that could be used to ease shortage in [[Bremmen]]
+##
